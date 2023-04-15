@@ -180,6 +180,7 @@ p {
 #about span {
   display: block;
   padding-bottom: 6px;
+  font-size: 25px;
 }
 #about-section .progress {
   border-radius: 0;
